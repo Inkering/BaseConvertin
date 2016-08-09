@@ -30,7 +30,7 @@ def toNewBase(number, base):
 
 
 
-    
+
 #def fromBase(number, base):
 #    n = 0
 #    for d in number:
